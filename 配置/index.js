@@ -94,14 +94,27 @@ export const USER_CONFIG = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
+{
+      name: "老婆大人",
+      id: "oSyBz6E778YSYXT3iHSRVswsDNoU",
+      useTemplateId: "PeRYA_mVRWpMXj81OS3AzcInAQN0HRDORRWLHyAqfzw",
+      province: "四川",
+      city: "泸州",
+      horoscopeDate: '01-03',
+      horoscopeDateType: '今天',
+      openUrl: "https://wangxinleo.cn",
+      festivals: [],
+      customizedDateList: []
+    },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+   {
+      name: "小白",
+      id: "oSyBz6GB_cadTDaH4DaHDo1KXCi4",
+      useTemplateId: "PeRYA_mVRWpMXj81OS3AzcInAQN0HRDORRWLHyAqfzw",
+      province: "江苏",
+      city: "苏州",
+      horoscopeDate: '01-04',
+      horoscopeDateType: '今天',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
